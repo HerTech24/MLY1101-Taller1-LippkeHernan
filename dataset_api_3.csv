@@ -1,0 +1,311 @@
+pais,countryCode,fecha,nombre_local,nombre_en,tipo,global,fijo
+Andorra,AD,2024-01-01,Any nou,New Year's Day,Public,True,False
+Andorra,AD,2024-01-06,Reis,Epiphany,Public,True,False
+Andorra,AD,2024-02-12,Carnaval,Carnival,Public,True,False
+Andorra,AD,2024-03-14,Dia de la Constitució,Constitution Day,Public,True,False
+Andorra,AD,2024-03-29,Divendres Sant,Good Friday,Public,True,False
+Andorra,AD,2024-04-01,Dilluns de Pasqua,Easter Monday,Public,True,False
+Andorra,AD,2024-05-01,Festa del Treball,Labour Day,Public,True,False
+Andorra,AD,2024-05-20,Dilluns de Pentecosta,Whit Monday,Public,True,False
+Andorra,AD,2024-08-15,Assumpció,Assumption Day,Public,True,False
+Andorra,AD,2024-09-08,Mare de Déu de Meritxell,National Holiday,Public,True,False
+Andorra,AD,2024-11-01,Tots Sants,All Saints' Day,Public,True,False
+Andorra,AD,2024-12-08,Immaculada Concepció,Immaculate Conception,Public,True,False
+Andorra,AD,2024-12-25,Nadal,Christmas Day,Public,True,False
+Andorra,AD,2024-12-26,Sant Esteve,St. Stephen's Day,Public,True,False
+Antigua and Barbuda,AG,2024-01-01,New Year's Day,New Year's Day,Public,True,False
+Antigua and Barbuda,AG,2024-03-29,Good Friday,Good Friday,Public,True,False
+Antigua and Barbuda,AG,2024-04-01,Easter Monday,Easter Monday,Public,True,False
+Antigua and Barbuda,AG,2024-05-06,Labour Day,Labour Day,Public,True,False
+Antigua and Barbuda,AG,2024-05-20,Whit Monday,Whit Monday,Public,True,False
+Antigua and Barbuda,AG,2024-08-05,Carnival Monday,Carnival Monday,Public,True,False
+Antigua and Barbuda,AG,2024-08-06,Carnival Tuesday,Carnival Tuesday,Public,True,False
+Antigua and Barbuda,AG,2024-09-12,National Day of Prayer,National Day of Prayer,Public,True,False
+Antigua and Barbuda,AG,2024-11-01,Independence Day,Independence Day,Public,True,False
+Antigua and Barbuda,AG,2024-12-09,National Heroes' Day,National Heroes' Day,Public,True,False
+Antigua and Barbuda,AG,2024-12-25,Christmas Day,Christmas Day,Public,True,False
+Antigua and Barbuda,AG,2024-12-26,Boxing Day,St. Stephen's Day,Public,True,False
+Anguilla,AI,2024-01-01,New Year's Day,New Year's Day,Public,True,False
+Anguilla,AI,2024-03-04,James Ronald Webster Day,James Ronald Webster Day,Public,True,False
+Anguilla,AI,2024-03-29,Good Friday,Good Friday,Public,True,False
+Anguilla,AI,2024-04-01,Easter Monday,Easter Monday,Public,True,False
+Anguilla,AI,2024-05-01,Labour Day,Labour Day,Public,True,False
+Anguilla,AI,2024-05-20,Whit Monday,Whit Monday,Public,True,False
+Anguilla,AI,2024-05-30,Anguilla Day,Anguilla Day,Public,True,False
+Anguilla,AI,2024-06-10,Sovereignty Day,Sovereignty Day,Public,True,False
+Anguilla,AI,2024-08-05,August Monday,August Monday,Public,True,False
+Anguilla,AI,2024-08-08,August Thursday,August Thursday,Public,True,False
+Anguilla,AI,2024-08-09,Constitution Day,Constitution Day,Public,True,False
+Anguilla,AI,2024-12-19,National Heroes' Day,National Heroes' Day,Public,True,False
+Anguilla,AI,2024-12-25,Christmas Day,Christmas Day,Public,True,False
+Anguilla,AI,2024-12-26,Boxing Day,St. Stephen's Day,Public,True,False
+Albania,AL,2024-01-01,Viti i Ri,New Year's Day,Public,True,False
+Albania,AL,2024-01-02,Viti i Ri,New Year's Day,Public,True,False
+Albania,AL,2024-03-14,Dita e Verës,Summer Day,Public,True,False
+Albania,AL,2024-03-22,Dita e Sulltan Nevruzit,Nowruz,Public,True,False
+Albania,AL,2024-03-31,Pashkët Katolike,Easter Sunday,Public,True,False
+Albania,AL,2024-04-01,E hëna e Pashkëve Katolike,Easter Monday,Public,True,False
+Albania,AL,2024-05-01,Dita Ndërkombëtare e Punonjësve,May Day,Public,True,False
+Albania,AL,2024-05-05,Pashkët Ortodokse,Easter Sunday,Public,True,False
+Albania,AL,2024-05-06,E hëna e Pashkëve Ortodokse,Easter Monday,Public,True,False
+Albania,AL,2024-09-05,Dita e Nënë Terezës,Mother Teresa Day,Public,True,False
+Albania,AL,2024-11-28,Dita e Pavarësisë,Independence Day,Public,True,False
+Albania,AL,2024-11-29,Dita e Çlirimit,Liberation Day,Public,True,False
+Albania,AL,2024-12-09,Dita Kombëtare e Rinisë,Youth Day,Public,True,False
+Albania,AL,2024-12-25,Krishtlindjet,Christmas Day,Public,True,False
+Armenia,AM,2024-01-01,Ամանոր,New Year's Day,Public,True,False
+Armenia,AM,2024-01-02,Ամանոր,New Year's Day,Public,True,False
+Armenia,AM,2024-01-05,Սուրբ Ծնունդ,Christmas Day,Public,True,False
+Armenia,AM,2024-01-06,Սուրբ Ծնունդ,Christmas Day,Public,True,False
+Armenia,AM,2024-01-28,Բանակի օր,Army Day,Public,True,False
+Armenia,AM,2024-03-08,Կանանց տոն,Women's Day,Public,True,False
+Armenia,AM,2024-03-31,Ամանոր,Easter Sunday,Public,True,False
+Armenia,AM,2024-04-24,Եղեռնի զոհերի հիշատակի օր,Armenian Genocide Remembrance Day,Public,True,False
+Armenia,AM,2024-05-01,Աշխատանքի օր,Labour Day,Public,True,False
+Armenia,AM,2024-05-09,Հաղթանակի և Խաղաղության տոն,Victory and Peace Day,Public,True,False
+Armenia,AM,2024-05-28,Հանրապետության օր,Republic Day,Public,True,False
+Armenia,AM,2024-07-05,Սահմանադրության օր,Constitution Day,Public,True,False
+Armenia,AM,2024-09-21,Անկախության օր,Independence Day,Public,True,False
+Armenia,AM,2024-12-31,Ամանոր,New Year's Eve,Public,True,False
+Angola,AO,2024-01-01,Dia de Ano Novo,New Year's Day,Public,True,False
+Angola,AO,2024-02-04,Dia da Libertação,Liberation Day,Public,True,False
+Angola,AO,2024-02-12,Carnaval,Carnival,Public,True,False
+Angola,AO,2024-03-08,Dia Internacional da Mulher,International Women's Day,Public,True,False
+Angola,AO,2024-03-23,Dia da Libertação da África Austral,Day of the Liberation of Southern Africa,Public,True,False
+Angola,AO,2024-03-29,Sexta Feira Santa,Good Friday,Public,True,False
+Angola,AO,2024-04-04,Dia da Paz,Peace Day,Public,True,False
+Angola,AO,2024-04-05,Dia da Paz (Ponte),Peace Day (Ponte),Public,True,False
+Angola,AO,2024-05-01,Dia do Trabalhador,Labour Day,Public,True,False
+Angola,AO,2024-09-16,Dia do Fundador da Nação e do Herói Nacional (Ponte),National Heroes' Day (Ponte),Public,True,False
+Angola,AO,2024-09-17,Dia do Fundador da Nação e do Herói Nacional,National Heroes' Day,Public,True,False
+Angola,AO,2024-11-02,Dia de Finados,All Souls' Day,Public,True,False
+Angola,AO,2024-11-11,Dia da Independência,Independence Day,Public,True,False
+Angola,AO,2024-12-25,Dia de Natal,Christmas Day,Public,True,False
+Argentina,AR,2024-01-01,Año Nuevo,New Year's Day,Public,True,False
+Argentina,AR,2024-02-12,Carnaval,Carnival,Public,True,False
+Argentina,AR,2024-02-13,Carnaval,Carnival,Public,True,False
+Argentina,AR,2024-03-24,Día Nacional de la Memoria por la Verdad y la Justicia,Day of Remembrance for Truth and Justice,Public,True,False
+Argentina,AR,2024-03-29,Viernes Santo,Good Friday,Public,True,False
+Argentina,AR,2024-04-02,Día del Veterano y de los Caídos en la Guerra de Malvinas,Day of the Veterans and Fallen of the Malvinas War,Public,True,False
+Argentina,AR,2024-05-01,Día del Trabajador,Labour Day,Public,True,False
+Argentina,AR,2024-05-25,Día de la Revolución de Mayo,May Revolution,Public,True,False
+Argentina,AR,2024-06-17,Paso a la Inmortalidad del General Martín Miguel de Güemes,Anniversary of the Passing of General Martín Miguel de Güemes,Public,True,False
+Argentina,AR,2024-06-20,Paso a la Inmortalidad del General Manuel Belgrano,General Manuel Belgrano Memorial Day,Public,True,False
+Argentina,AR,2024-07-09,Día de la Independencia,Independence Day,Public,True,False
+Argentina,AR,2024-08-17,Paso a la Inmortalidad del General José de San Martín,General José de San Martín Memorial Day,Public,True,False
+Argentina,AR,2024-10-12,Día del Respeto a la Diversidad Cultural,Day of Respect for Cultural Diversity,Public,True,False
+Argentina,AR,2024-11-18,Día de la Soberanía Nacional,National Sovereignty Day,Public,True,False
+Argentina,AR,2024-12-08,Día de la Inmaculada Concepción de María,Immaculate Conception Day,Public,True,False
+Argentina,AR,2024-12-25,Navidad,Christmas Day,Public,True,False
+Austria,AT,2024-01-01,Neujahr,New Year's Day,Public,True,False
+Austria,AT,2024-01-06,Heilige Drei Könige,Epiphany,Public,True,False
+Austria,AT,2024-03-19,Josefstag,Saint Joseph's Day,School,False,False
+Austria,AT,2024-03-31,Ostersonntag,Easter Sunday,Public,True,False
+Austria,AT,2024-04-01,Ostermontag,Easter Monday,Public,True,False
+Austria,AT,2024-05-01,Staatsfeiertag,National Holiday,Public,True,False
+Austria,AT,2024-05-04,Florianitag,Saint Florian's Day,School,False,False
+Austria,AT,2024-05-09,Christi Himmelfahrt,Ascension Day,Public,True,False
+Austria,AT,2024-05-19,Pfingstsonntag,Pentecost,Public,True,False
+Austria,AT,2024-05-20,Pfingstmontag,Whit Monday,Public,True,False
+Austria,AT,2024-05-30,Fronleichnam,Corpus Christi,Public,True,False
+Austria,AT,2024-08-15,Maria Himmelfahrt,Assumption Day,Public,True,False
+Austria,AT,2024-09-24,Rupertitag,Saint Rupert's Day,School,False,False
+Austria,AT,2024-10-26,Nationalfeiertag,National Holiday,Public,True,False
+Austria,AT,2024-11-01,Allerheiligen,All Saints' Day,Public,True,False
+Austria,AT,2024-11-11,Martinstag,Saint Martin's Day,School,False,False
+Austria,AT,2024-11-15,Leopolditag,Saint Leopold's Day,School,False,False
+Austria,AT,2024-12-08,Mariä Empfängnis,Immaculate Conception,Public,True,False
+Austria,AT,2024-12-25,Weihnachten,Christmas Day,Public,True,False
+Austria,AT,2024-12-26,Stefanitag,St. Stephen's Day,Public,True,False
+Australia,AU,2024-01-01,New Year's Day,New Year's Day,Public,True,False
+Australia,AU,2024-01-26,Australia Day,Australia Day,Public,True,False
+Australia,AU,2024-03-04,Labour Day,Labour Day,Public,False,False
+Australia,AU,2024-03-11,Canberra Day,Canberra Day,Public,False,False
+Australia,AU,2024-03-11,Adelaide Cup Day,Adelaide Cup Day,Public,False,False
+Australia,AU,2024-03-11,Eight Hours Day,Eight Hours Day,Public,False,False
+Australia,AU,2024-03-11,Labour Day,Labour Day,Public,False,False
+Australia,AU,2024-03-29,Good Friday,Good Friday,Public,True,False
+Australia,AU,2024-03-30,Easter Eve,Holy Saturday,Public,False,False
+Australia,AU,2024-03-31,Easter Sunday,Easter Sunday,Public,False,False
+Australia,AU,2024-04-01,Easter Monday,Easter Monday,Public,True,False
+Australia,AU,2024-04-25,Anzac Day,Anzac Day,Public,True,False
+Australia,AU,2024-05-06,May Day,May Day,Public,False,False
+Australia,AU,2024-05-06,Labour Day,Labour Day,Public,False,False
+Australia,AU,2024-05-27,Reconciliation Day,Reconciliation Day,Public,False,False
+Australia,AU,2024-06-03,Western Australia Day,Western Australia Day,Public,False,False
+Australia,AU,2024-06-10,King's Birthday,King's Birthday,Public,False,False
+Australia,AU,2024-08-05,Picnic Day,Picnic Day,Public,False,False
+Australia,AU,2024-09-27,Friday before AFL Grand Final,Friday before AFL Grand Final,Public,False,False
+Australia,AU,2024-09-30,King's Birthday,King's Birthday,Public,False,False
+Australia,AU,2024-10-07,Labour Day,Labour Day,Public,False,False
+Australia,AU,2024-10-07,King's Birthday,King's Birthday,Public,False,False
+Australia,AU,2024-11-05,Melbourne Cup,Melbourne Cup,Public,False,False
+Australia,AU,2024-12-25,Christmas Day,Christmas Day,Public,True,False
+Australia,AU,2024-12-26,Boxing Day,St. Stephen's Day,Public,True,False
+Aruba,AW,2024-01-01,Nieuwjaarsdag,New Year's Day,Public,True,False
+Aruba,AW,2024-01-25,Dag van Betico Croes,Betico Croes Day,Public,True,False
+Aruba,AW,2024-02-12,Carnaval Maandag,Carnival Monday,Public,True,False
+Aruba,AW,2024-03-18,Dag van het Volkslied en de Vlag,National Anthem and Flag Day,Public,True,False
+Aruba,AW,2024-03-29,Goede Vrijdag,Good Friday,Public,True,False
+Aruba,AW,2024-03-31,Eerste Paasdag,Easter Sunday,Public,True,False
+Aruba,AW,2024-04-01,Tweede Paasedag,Easter Monday,Public,True,False
+Aruba,AW,2024-04-27,Koningsdag,King's Day,Public,True,False
+Aruba,AW,2024-05-01,Dag van de Arbeid,Labour Day,Public,True,False
+Aruba,AW,2024-05-09,Hemelvaartsdag,Ascension Day,Public,True,False
+Aruba,AW,2024-12-25,Eerste Kerstdag,Christmas Day,Public,True,False
+Aruba,AW,2024-12-26,Tweede Kerstdag,St. Stephen's Day,Public,True,False
+Åland Islands,AX,2024-01-01,Nyårsdagen,New Year's Day,Public,True,False
+Åland Islands,AX,2024-01-06,Trettondagen,Epiphany,Public,True,False
+Åland Islands,AX,2024-03-29,Långfredag,Good Friday,Public,True,False
+Åland Islands,AX,2024-03-31,Påskdagen,Easter Sunday,Public,True,False
+Åland Islands,AX,2024-04-01,Annandag påsk,Easter Monday,Public,True,False
+Åland Islands,AX,2024-05-01,Första maj,May Day,Public,True,False
+Åland Islands,AX,2024-05-09,Kristi himmelsfärdsdagn,Ascension Day,Public,True,False
+Åland Islands,AX,2024-05-19,Pingstdagen,Pentecost,Public,True,False
+Åland Islands,AX,2024-06-09,Självstyrelsedagen,Autonomy Day,Public,True,False
+Åland Islands,AX,2024-06-15,Midsommardagen,Midsummer Day,Public,True,False
+Åland Islands,AX,2024-06-21,Midsommarafton,Midsummer Evey,Public,True,False
+Åland Islands,AX,2024-11-02,Alla helgons dag,All Saints Day,Public,True,False
+Åland Islands,AX,2024-12-06,Självständighetsdagen,Independence Day,Public,True,False
+Åland Islands,AX,2024-12-24,Julafton,Christmas Eve,Public,True,False
+Åland Islands,AX,2024-12-25,Juldagen,Christmas Day,Public,True,False
+Åland Islands,AX,2024-12-26,Annandag jul,St. Stephen's Day,Public,True,False
+Bosnia and Herzegovina,BA,2024-01-01,Nova Godina,New Year's Day,Public,True,False
+Bosnia and Herzegovina,BA,2024-01-02,Nova Godina,New Year's Day,Public,True,False
+Bosnia and Herzegovina,BA,2024-01-06,Božić (za pravoslavce),Christmas Eve (Orthodox),Public,False,False
+Bosnia and Herzegovina,BA,2024-01-07,Božić (za pravoslavce),Christmas Day (Orthodox),Public,False,False
+Bosnia and Herzegovina,BA,2024-03-01,Dan nezavisnosti Bosne i Hercegovine,Independence day,Public,False,False
+Bosnia and Herzegovina,BA,2024-05-01,Praznik rada,May Day / International Workers' Day,Public,True,False
+Bosnia and Herzegovina,BA,2024-05-02,Praznik rada,May Day / International Workers' Day,Public,True,False
+Bosnia and Herzegovina,BA,2024-05-03,Veliki petak,Good Friday,Public,False,False
+Bosnia and Herzegovina,BA,2024-05-05,Vaskrs (Uskrs),Easter Sunday,Public,False,False
+Bosnia and Herzegovina,BA,2024-05-06,Vaskrsni (Uskrsni) ponedeljak,Easter Monday,Public,False,False
+Bosnia and Herzegovina,BA,2024-05-09,Dan pobjede nad fašizmom,Victory Day over fascism,Public,False,False
+Bosnia and Herzegovina,BA,2024-11-21,Dan uspostavljanja Opšteg okvirnog sporazuma za mir u BiH,Day of the establishment of the General Framework Agreement for Peace in BiH,Public,False,False
+Bosnia and Herzegovina,BA,2024-11-25,Dan državnosti Bosne i Hercegovine,Statehood Day,Public,False,False
+Bosnia and Herzegovina,BA,2024-12-24,Božić (za rimokatolike),Christmas Eve (Roman Catholic),Public,False,False
+Bosnia and Herzegovina,BA,2024-12-25,Božić (za rimokatolike),Christmas Day (Roman Catholic),Public,False,False
+Barbados,BB,2024-01-01,New Year's Day,New Year's Day,Public,True,False
+Barbados,BB,2024-01-21,Errol Barrow Day,Errol Barrow Day,Public,True,False
+Barbados,BB,2024-03-29,Good Friday,Good Friday,Public,True,False
+Barbados,BB,2024-04-01,Easter Monday,Easter Monday,Public,True,False
+Barbados,BB,2024-04-28,National Heroes' Day,National Heroes' Day,Public,True,False
+Barbados,BB,2024-05-01,Labour Day,Labour Day,Public,True,False
+Barbados,BB,2024-05-20,Whit Monday,Whit Monday,Public,True,False
+Barbados,BB,2024-08-01,Emancipation Day,Emancipation Day,Public,True,False
+Barbados,BB,2024-08-05,Kadooment Day,Kadooment Day,Public,True,False
+Barbados,BB,2024-11-30,Independence Day,Independence Day,Public,True,False
+Barbados,BB,2024-12-25,Christmas Day,Christmas Day,Public,True,False
+Barbados,BB,2024-12-26,Boxing Day,Boxing Day,Public,True,False
+Bangladesh,BD,2024-02-21,শহিদ দিবস ও আন্তর্জাতিক মাতৃভাষা দিবস,International Mother Language Day,Public,True,False
+Bangladesh,BD,2024-03-26,স্বাধীনতা ও জাতীয় দিবস,Independence and National Day,Public,True,False
+Bangladesh,BD,2024-04-14,নববর্ষ,Bengali New Year,Public,True,False
+Bangladesh,BD,2024-05-01,মে দিবস,Labour Day,Public,True,False
+Bangladesh,BD,2024-12-16,বিজয় দিবস,Victory Day,Public,True,False
+Bangladesh,BD,2024-12-25,বড়দিন,Christmas Day,Public,True,False
+Belgium,BE,2024-01-01,Nieuwjaar,New Year's Day,Public,True,False
+Belgium,BE,2024-03-29,Goede Vrijdag,Good Friday,Bank,True,False
+Belgium,BE,2024-03-31,Pasen,Easter Sunday,Public,True,False
+Belgium,BE,2024-04-01,Paasmaandag,Easter Monday,Public,True,False
+Belgium,BE,2024-05-01,Dag van de arbeid,Labour Day,Public,True,False
+Belgium,BE,2024-05-09,Onze Lieve Heer hemel,Ascension Day,Public,True,False
+Belgium,BE,2024-05-10,Day after Ascension Day,Day after Ascension Day,Bank,True,False
+Belgium,BE,2024-05-20,Pinkstermaandag,Whit Monday,Public,True,False
+Belgium,BE,2024-07-21,Nationale feestdag,Belgian National Day,Public,True,False
+Belgium,BE,2024-08-15,Onze Lieve Vrouw hemelvaart,Assumption Day,Public,True,False
+Belgium,BE,2024-11-01,Allerheiligen,All Saints' Day,Public,True,False
+Belgium,BE,2024-11-11,Wapenstilstand,Armistice Day,Public,True,False
+Belgium,BE,2024-12-25,Kerstdag,Christmas Day,Public,True,False
+Belgium,BE,2024-12-26,Boxing Day,St. Stephen's Day,Bank,True,False
+Burkina Faso,BF,2024-01-01,New Year's Day,New Year's Day,Public,True,False
+Burkina Faso,BF,2024-01-03,Revolution Day,Revolution Day,Public,True,False
+Burkina Faso,BF,2024-03-08,International Women’s Day,International Women’s Day,Public,True,False
+Burkina Faso,BF,2024-04-01,Easter Monday,Easter Monday,Public,True,False
+Burkina Faso,BF,2024-05-01,Labour Day,Labour Day,Public,True,False
+Burkina Faso,BF,2024-05-09,Ascension Day,Ascension Day,Public,True,False
+Burkina Faso,BF,2024-05-15,Day of Customs and Traditions,Day of Customs and Traditions,Public,True,False
+Burkina Faso,BF,2024-08-05,Independence Day,Independence Day,Public,True,False
+Burkina Faso,BF,2024-08-15,Assumption Day,Assumption Day,Public,True,False
+Burkina Faso,BF,2024-10-31,Martyrs' Day,Martyrs' Day,Public,True,False
+Burkina Faso,BF,2024-11-01,All Saints' Day,All Saints' Day,Public,True,False
+Burkina Faso,BF,2024-12-11,Proclamation of Independence Day,Proclamation of Independence Day,Public,True,False
+Burkina Faso,BF,2024-12-25,Christmas Day,Christmas Day,Public,True,False
+Bulgaria,BG,2024-01-01,Нова година,New Year's Day,Public,True,False
+Bulgaria,BG,2024-03-04,Ден на oсвобождението на България от Oсманско робство,Liberation Day,Public,True,False
+Bulgaria,BG,2024-05-01,Ден на труда и на международната работническа солидарност,International Workers' Day,Public,True,False
+Bulgaria,BG,2024-05-03,Разпети петък,Good Friday,Public,True,False
+Bulgaria,BG,2024-05-04,Велика събота,Holy Saturday,Public,True,False
+Bulgaria,BG,2024-05-05,Великден,Easter Sunday,Public,True,False
+Bulgaria,BG,2024-05-06,"Гергьовден, ден на храбростта и Българската армия",Saint George's Day,Public,True,False
+Bulgaria,BG,2024-05-06,Велики понеделник,Easter Monday,Public,True,False
+Bulgaria,BG,2024-05-24,Ден на Българската просвета и култура и на славянската писменост,Saints Cyril and Methodius Day,Public,True,False
+Bulgaria,BG,2024-09-06,Ден на съединението,Unification Day,Public,True,False
+Bulgaria,BG,2024-09-23,Ден на независимостта на България,Independence Day,Public,True,False
+Bulgaria,BG,2024-12-24,Бъдни вечер,Christmas Eve,Public,True,False
+Bulgaria,BG,2024-12-25,Рождество Христово,Christmas Day,Public,True,False
+Bulgaria,BG,2024-12-26,Рождество Христово,Second day of Christmas,Public,True,False
+Bahrain,BH,2024-01-01,رأس السنة الميلادية,New Year's Day,Public,True,False
+Bahrain,BH,2024-02-22,اليوم الرياضي,Sports Day,Public,True,False
+Bahrain,BH,2024-05-01,يوم العمال,Labour Day,Public,True,False
+Bahrain,BH,2024-12-16,اليوم الوطني,National Day,Public,True,False
+Bahrain,BH,2024-12-17,اليوم الوطني,National Day,Public,True,False
+Burundi,BI,2024-01-01,New Year's Day,New Year's Day,Public,True,False
+Burundi,BI,2024-02-05,Unity Day,Unity Day,Public,True,False
+Burundi,BI,2024-04-06,Ntaryamira Day,Ntaryamira Day,Public,True,False
+Burundi,BI,2024-05-01,Labour Day,Labour Day,Public,True,False
+Burundi,BI,2024-05-09,Ascension Day,Ascension Day,Public,True,False
+Burundi,BI,2024-06-08,National Patriotism Day,National Patriotism Day,Public,True,False
+Burundi,BI,2024-07-01,Independence Day,Independence Day,Public,True,False
+Burundi,BI,2024-08-15,Assumption Day,Assumption Day,Public,True,False
+Burundi,BI,2024-10-13,Rwagasore Day,Rwagasore Day,Public,True,False
+Burundi,BI,2024-10-21,Ndadaye Day,Ndadaye Day,Public,True,False
+Burundi,BI,2024-11-01,All Saints' Day,All Saints' Day,Public,True,False
+Burundi,BI,2024-12-25,Christmas Day,Christmas Day,Public,True,False
+Benin,BJ,2024-01-01,New Year's Day,New Year's Day,Public,True,False
+Benin,BJ,2024-01-10,Traditional Day,Traditional Day,Public,True,False
+Benin,BJ,2024-03-31,Easter Sunday,Easter Sunday,Public,True,False
+Benin,BJ,2024-04-01,Easter Monday,Easter Monday,Public,True,False
+Benin,BJ,2024-05-01,Labour Day,Labour Day,Public,True,False
+Benin,BJ,2024-05-09,Ascension Day,Ascension Day,Public,True,False
+Benin,BJ,2024-05-20,Whit Monday,Whit Monday,Public,True,False
+Benin,BJ,2024-08-01,Independence Day,Independence Day,Public,True,False
+Benin,BJ,2024-08-15,Assumption Day,Assumption Day,Public,True,False
+Benin,BJ,2024-10-26,Armed Forces Day,Armed Forces Day,Public,True,False
+Benin,BJ,2024-11-01,All Saints' Day,All Saints' Day,Public,True,False
+Benin,BJ,2024-11-30,National Day,National Day,Public,True,False
+Benin,BJ,2024-12-25,Christmas Day,Christmas Day,Public,True,False
+Benin,BJ,2024-12-26,Boxing Day,St. Stephen's Day,Public,True,False
+Saint Barthélemy,BL,2024-01-01,Jour de l'An,New Year's Day,Public,True,False
+Saint Barthélemy,BL,2024-04-01,Lundi de Pâques,Easter Monday,Public,True,False
+Saint Barthélemy,BL,2024-05-01,Fête du Travail,Labour Day,Public,True,False
+Saint Barthélemy,BL,2024-05-08,Fête de la Victoire 1945,Victory Day,Public,True,False
+Saint Barthélemy,BL,2024-05-09,Ascension,Ascension Day,Public,True,False
+Saint Barthélemy,BL,2024-05-20,Lundi de Pentecôte,Whit Monday,Public,True,False
+Saint Barthélemy,BL,2024-07-14,Fête Nationale,National Day,Public,True,False
+Saint Barthélemy,BL,2024-08-15,Assomption,Assumption Day,Public,True,False
+Saint Barthélemy,BL,2024-10-09,Abolition de l'Esclavage,Abolition Day,Public,True,False
+Saint Barthélemy,BL,2024-11-01,Toussaint,All Saints' Day,Public,True,False
+Saint Barthélemy,BL,2024-11-11,Armistice,Armistice Day,Public,True,False
+Saint Barthélemy,BL,2024-12-25,Noël,Christmas Day,Public,True,False
+Bermuda,BM,2024-01-01,New Year's Day,New Year's Day,Public,True,False
+Bermuda,BM,2024-03-29,Good Friday,Good Friday,Public,True,False
+Bermuda,BM,2024-05-24,Bermuda Day,Bermuda Day,Public,True,False
+Bermuda,BM,2024-06-17,National Heroes Day,National Heroes Day,Public,True,False
+Bermuda,BM,2024-08-01,Emancipation Day,Emancipation Day,Public,True,False
+Bermuda,BM,2024-08-02,Mary Prince Day,Mary Prince Day,Public,True,False
+Bermuda,BM,2024-09-02,Labour Day,Labour Day,Public,True,False
+Bermuda,BM,2024-11-11,Remembrance Day,Remembrance Day,Public,True,False
+Bermuda,BM,2024-12-25,Christmas Day,Christmas Day,Public,True,False
+Bermuda,BM,2024-12-26,Boxing Day,St. Stephen's Day,Public,True,False
+Bolivia,BO,2024-01-01,Año Nuevo,New Year's Day,Public,True,False
+Bolivia,BO,2024-02-02,Fiesta de la Virgen de Candelaria,Feast of the Virgin of Candelaria,Public,True,False
+Bolivia,BO,2024-02-12,Feriado por Carnaval,Carnival,Public,True,False
+Bolivia,BO,2024-02-13,Feriado por Carnaval,Carnival,Public,True,False
+Bolivia,BO,2024-03-29,Viernes Santo,Good Friday,Public,True,False
+Bolivia,BO,2024-05-01,Dia del trabajo,Labour Day,Public,True,False
+Bolivia,BO,2024-05-30,Corpus Christi,Corpus Christi,Public,True,False
+Bolivia,BO,2024-06-21,Año Nuevo Andino,Andean New Year,Public,True,False
+Bolivia,BO,2024-08-02,Día de la Revolución Agraria,Agrarian Reform Day,Public,True,False
+Bolivia,BO,2024-08-06,Dia de la Patria,Independence Day,Public,True,False
+Bolivia,BO,2024-11-02,Todos Santos,All Saints' Day,Public,True,False
+Bolivia,BO,2024-12-25,Navidad,Christmas Day,Public,True,False
