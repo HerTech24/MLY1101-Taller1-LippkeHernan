@@ -1,7 +1,7 @@
 # MLY1101 · Taller N°1 — Consumo de APIs
 
 Nombre: Hernán Lippke
-Sección: 001V
+Sección: MLY1101_001V
 
 Pregunta u objetivo:
 ¿Qué información puede recopilarse sobre los países del mundo desde fuentes
@@ -18,7 +18,7 @@ Registros API 3: 310
 ## Cómo ejecutar
 
 Abrir el notebook en Google Colab y usar Entorno de ejecución → Ejecutar todas.
-El código regenera automáticamente los 3 datasets, sin intervención manual.
+El código regenera automáticamente los 3 datasets (.csv), sin intervención manual.
 Ninguna de las 3 APIs requiere API key.
 
 ## Nota sobre los conteos
